@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chaus_Oleh_homework.unity
+  isLoaded: 1
+  isActive: 1
